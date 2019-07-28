@@ -1,0 +1,8 @@
+Lowest Possible: 300
+Highest Possible: 850
+=====================
+Cynwell: 500
+Rosalyn: 500
+Nick: 500
+Jeremy: 500
+Kristen: 1

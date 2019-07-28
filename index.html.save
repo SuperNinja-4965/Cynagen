@@ -26,7 +26,7 @@
 
 <html lang="en">
 	<head>
-		<title>Cynagen</title>
+		<title>Cynagen: Minecraft Survival Server</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="Cynagen is a small Minecraft survival server. A server with nice and fun community. We also offer Minecraft vanilla server mode.">
@@ -60,15 +60,12 @@ gtag('config', 'UA-123961234-1');
 				<ul class="links">
 					<li><a href="#home">Home</a></li>
 					<li><a href="https://topg.org/Minecraft/in-488463">Vote</a></li>
-					<li><a href="https://github.com/Kyrobi/Cynagen/issues">Issues</a></li>
-					<li><a href="http://cynagen.xyz:8123/">Map</a></li>
-					<!--<li><a href="http://cynagen.xyz:8144/server">Status</a></li>-->
-					<li><a href="http://cynagen.xyz/bans">Punishments</a></li>
-					<li><a href="https://github.com/Kyrobi/Cynagen/wiki">Info</a></li>
-					<li><a href="https://github.com/Kyrobi/Cynagen/blob/master/updates.md">Updates</a></li>
-					<!--<li><a href="https://telegra.ph/Updates-11-11">Updates</a></li>-->
+					<li><a href="http://cynagen.boards.net/">Forum</a></li>
+					<li><a href="http://cynagen.xyz:8144/server">Status</a></li>
+					<li><a href="https://telegra.ph/Navigation-Menu-11-10">Info</a></li>
+					<li><a href="https://telegra.ph/Updates-11-11">Updates</a></li>
 					<li><a href="https://discordapp.com/invite/B5JW7qp">Discord</a></li>
-					<li><a href="https://github.com/Kyrobi/Cynagen/issues">Suggestion</a></li>
+					<li><a href="https://drive.google.com/open?id=1xJOKt4ZG2UpCWxWrhXXPgfbwWyIqEnwW8oBSuMYoeaw">Suggestion</a></li>
 					<li style="color: gold;"><a href="https://cynagen.craftingstore.net/"><strong style="color: gold;">Shop</strong></a></li>
 				</ul>
 			</nav>
@@ -114,7 +111,7 @@ gtag('config', 'UA-123961234-1');
 									<a class="icon fa fa-money"><span class="label">Icon</span></a>
 									<h3>Economy</h3>
 								</header>
-								<p>We have a simple economy system that is player-driven. Buy, sell, or simply trade. Either way, you most likely are going be poor.</p>
+								<p>We have a simple economy system that is player-driven. Buy, sell, or simply trade. Either way, you're most likely are going be poor.</p>
 							</div>
 						</section>
 						<section>
@@ -130,9 +127,9 @@ gtag('config', 'UA-123961234-1');
 							<div class="content">
 								<header>
 									<a class="icon fa fa-terminal"><span class="label">Icon</span></a>
-									<h3>Sorta Vanilla</h3>
+									<h3>Enable Vanilla</h3>
 								</header>
-								<p>Don't like playing on a server with a bunch of addons? Don't worry! The server is simple enough for <br>new players to pick up on.</p>
+								<p>Don't like playing on a server with a bunch of addons? Don't worry! You can simply revoke yourself from everything <br>(except claims) via <br>/enable vanilla.</p>
 							</div>
 						</section>
 						<section>
@@ -141,7 +138,7 @@ gtag('config', 'UA-123961234-1');
 									<a class="icon fa fa-flash"><span class="label">Icon</span></a>
 									<h3>Lag Free</h3>
 								</header>
-								<p>Powerful hardware ensures that the server never lags so that you can have the most enjoyable experience. <br><br> Sike! Minecraft 1.14 has <br> made the above statement no-longer true.<br>This is actually a complete lie.</p>
+								<p>Powerful hardware ensures that the server never lags so that you can have the most enjoyable experience. This is actually a complete lie.</p>
 							</div>
 						</section>
 					</div>

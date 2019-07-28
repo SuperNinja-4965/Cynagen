@@ -1,0 +1,23 @@
+Options +FollowSymlinks
+RewriteEngine On
+
+
+# Non-www to www
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule (.*) https://www.%{HTTP_HOST}/$1 [R,L]
+
+# Non-SSL to SSL
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}/$1 [R,L]
+
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^example.com [NC]
+#RewriteRule ^(.*)$ http://www.cynagen.xyz/$1 [L,R=301,NC]
+
+RewriteCond %{HTTP_HOST} !^www. [NC]
+RewriteCond %{HTTP_HOST} !^$
+RewriteRule ^(.*) http://www.%{HTTP_HOST}/$1 [R=301]
+
+Options -Indexes
+ErrorDocument 404 /NotFound.html
+ErrorDocument 403 /NotFound.html

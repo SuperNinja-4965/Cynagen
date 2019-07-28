@@ -1,0 +1,200 @@
+August 31, 2018
+=============
+- New tab formatting
+- Be able to withdraw money via  /withdraw
+- Money can be used to trade to high-level enchanted items in the ritual cave
+- /pay will have a $10 fee
+- /withdraw command will have a $8 fee
+- Tweaked mob spawning mechanic 
+- Increased mob spawning cap
+- Exchange 1 coin for $200 at currency exchange
+
+
+August 18, 2018
+=============
+- Founders are able to set 2 extra homes for a total of 10.
+- Founders who ALSO have VIP can set an additional 3 homes for a total of 11.
+- VIPs can set 1 extra home for a total of 8.
+
+
+August 14, 2018
+=============
+- PvP has been disabled in the End.
+
+
+
+August 12, 2018
+=============
+- Temporarily fixed ghost blocks.
+- VIP can obtain their own skull.
+
+
+July 31, 2018
+=============
+- You are now able to vote even if you're offline. The rewards are queued until you login.
+
+
+July 29, 2018
+=============
+- Crop growth rate increased by 2x
+- Slime blocks have been enabled
+
+* (Attempt) to remove ghost block via some server-sided modifications. 
+  Until server officially updates to 1.13, this will be a temporary solution.
+
+
+
+July 28, 2018
+=============
+- You will no longer recover hunger when you die
+
+
+July 24, 2018
+=============
+- For VIP: You can now do /c to open your crafting table.
+
+
+July 22, 2018
+=============
+- Blinding Light of Destiny has been introduced
+
+
+July 18, 2018
+=============
+- Chest shop is now available! Do /warp shopinfo to find out more
+
+
+July 11, 2018
+=============
+- Added a way to see when you joined. /jointime
+
+
+June 29, 2018
+=============
+- Dropped server slots down to 22.
+
+- Added a way for players to check their in-game status.
+
+- Founder rank introduced.
+
+
+June 14, 2018
+=============
+- New server IP: cynagen.xyz
+
+- Increased natural mob spawning count.
+
+- Increased breeding mob count.
+
+
+June 8, 2018
+=============
+- New spawn.
+
+
+May 31, 2018
+=============
+- End is enabled.
+
+- Slightly increased mob spawn count.
+
+- Doubled the animal spawn count.
+
+
+May 30, 2018
+=============
+- VIP rank is now available to be purchased.
+
+
+
+May 15, 2018
+=============
+***Slight quality of life update***
+
+- Claims will be deleted after 365 days (Used to be 90 days).
+
+- You are now able to claim in the nether.
+
+- Those annoying 1x1 claims are no longer possible.
+
+
+Apr 3, 2018
+=============
+- The End has been disabled.
+
+- End Trade villager has been added.
+
+- New anti-lag plugin has been added.
+
+- Donation to the server is available.
+
+
+Jan 2, 2018
+=============
+- Economy has been re-enabled!
+
+- The market has been added back! Access market by doing /market.
+
+- Infernal mobs are back!
+
+- Voting is now available. While in-game, do /vote.
+
+
+Dec 28, 2017
+=============
+- Server IP changed to - 144.217.209.254
+
+- Server now supports clients from 1.8.x - 1.12.x
+
+- McMMO is back!
+
+- Server slot has been upgraded to 20!
+
+
+Dec 22, 2017
+=============
+- New spawn!
+
+- Economy, shop, and player market has been completely removed from the server.
+
+- McMMO has been removed.
+
+
+Nov 29, 2017
+=============
+- Tweaked some Infernal Mob settings.
+
+- Changed MOTD color and server icon.
+
+
+Sep 3, 2017
+=============
+- Server shop has been added. ( Access by /shop )
+
+
+Sep 1, 2017
+=============
+- Tweaked the economy.
+
+
+Aug 26, 2017
+=============
+Changed hosting provider.
+
+- Minor tweaks to the amount of homes a player can set.
+
+- Tweaked some server settings to optimize performance.
+
+- Minor changes to player permissions.
+
+- Rules are now available.
+
+
+June 4, 2017
+=============
+- Server is made public!
+
+
+-licc-
+
+
