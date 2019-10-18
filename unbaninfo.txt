@@ -1,0 +1,27 @@
+There are 2 ways to file a ban appeal:
+
+(a). Github
+   
+   (1). Head to this link: https://github.com/Kyrobi/Cynagen/issues
+
+   (2). Click the green button that says "New Issue"
+
+   (3). Select the appropriate topic. In this case, select "Ban Appeal"
+
+   (4). Follow the instruction(s) and fill out the information.
+
+   (5). After you are done, click "Submit New Issue"
+
+
+
+(b). Discord
+
+   (1). Join our Discord by going to this link: https://discordapp.com/invite/B5JW7qp
+
+   (2). Navigate to the #ticket-system channel and type "-new" (without quotes).
+
+   (3). Go to this page and copy the unban template: site.cynagen.xyz/unbantemplate.txt
+
+   (4). Paste the copied message into the chat box of Discord and begin filling it out.
+
+   (5). Once you have filled out the information, send the message.
