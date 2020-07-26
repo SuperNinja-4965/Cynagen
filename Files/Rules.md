@@ -17,7 +17,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 
 ## 2. Do not advertise.
-**a).** Advertising is prohibited in chat. Advertising consists of **promoting** anything that isn’t Cynagen related.
+**a).** Advertising is prohibited in chat. Advertising consists of promoting anything that isn’t Cynagen related.
 
 **b).** Discussion of external products (Computers, Hypixel, Bell Peppers, Dr. Pepper, etc.) are allowed as long as they are not being promoted. YouTube videos, Google links, Twitch, and external sites are allowed provided you're sensible with them - no linking to a virus, NSFW, or the like.
 
@@ -54,7 +54,7 @@ View change history [here](https://github.com/Kyrobi/Cynagen/commits/master/File
 
 **c).** Using modifications to the game such as x-ray texture packs is also considered cheating.
 
-**d).** Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord.
+**d).** Using aspects of the game in unintended ways are prohibited. If you're not sure, ask in our Discord. [Here](https://github.com/Kyrobi/Cynagen/blob/master/Files/allowedglitches.md) is a list of approved gtliches that you can use.
 
 **e).** Using anything that gives the user a clear advantage on the server. If you're not sure, ask in our Discord.
 
@@ -74,11 +74,11 @@ Common sense is this magical thing that very few people have. According to every
 
 ## General
 
-* Do not change your nickname to match an existing one. Similar nicknames are allowed (Ex. Thing1 and Thing2).
+* Do not change your nickname to match an existing one or attempt to impersonate a person on the server. It's annoying.
 
 * Try to keep the server English only. You may use other language here and there, but keep the general conversation in English.
 
-* You may not build any __**AFK**__ machines.
+* Any system that "plays" for you while you're AFK is not allowed (i.e. acrobatic farm).
 
 * You are not allow to profit from strcitly VIP specific items / perks. 
 
